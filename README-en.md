@@ -1,10 +1,10 @@
 # Github Explorer
 
 <p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>
+  <a href="#-sobre">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">How to run</a>
 </p> 
 
 <p align="center">
@@ -14,15 +14,15 @@
 </br>
 
 
-## 📖 Sobre
+## 📖 About
 
-Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter I.
+Project developed during the Ignite of Rocketseat | Track ReactJS Chapter I.
 
 </br>
 
-## ⚙ Tecnologias
+## ⚙ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://www.reactjs.org)
 - [Babel](https://babeljs.io)
@@ -32,27 +32,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 </br>
 
-## 💻 Projeto
+## 💻 Project
 
-O Github Explorer é um app que mostra uma lista de repositórios da Rocketseat no github.
+Github Explorer is an app that displays a list of Rocketseat repositories in github.
 
 </br>
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
+- Clone the repository
 ```
 git clone https://github.com/onLeoRodrigues/01-github-explorer.git
 ```
-- Instale as dependências
+- install dependencies
 ```
 yarn install
 ```
-- Inicie o servidor
+- Start the server
 ``` 
 yarn dev
 ```
-- Acesse no seu navegador
+- Access in your browser
 ```
 http://localhost:8080
 ```
